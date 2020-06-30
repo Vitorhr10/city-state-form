@@ -1,0 +1,31 @@
+.div-center {
+    align-items: center;
+    text-align: center;
+}
+
+.sys-title {
+    font-size: 24px;
+    border-style: outset;
+}
+
+.title {
+    font-size: 20px;
+    width: 100%;
+    margin-top: 20px;
+    font-weight: bold;
+}
+
+.content {
+    font-size: 18px;
+    width: 100%;
+    margin-top: 20px;
+}
+
+.button-default {
+    margin: 20px;
+    float: right;
+}
+
+.button-default a {
+    text-decoration: none;
+}
